@@ -208,7 +208,7 @@ a:focus-visible {
 }
 
 .demo-1 .grid__item-img {
-	filter: contrast(70%);
+/*	filter: contrast(70%); */
 }
 
 .cover {
